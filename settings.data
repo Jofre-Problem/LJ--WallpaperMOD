@@ -1,0 +1,48 @@
+[BG:#1E1E1E]
+Window();
+[Border:0, FG:#1C1B1C]
+[Name:Menu Style, Default:Lower, FG:#7A5EF8, BG:#5caeff, Border:0]
+GlobalComboBox("Wallpaper Yagami", "Wallpaper Yagami")
+{
+	Makoto
+	All Out Attack
+	Ren & Ann
+	Ren & Sumire
+	P3 Makoto
+	Yukari
+	Mitsuru
+	Femc
+}
+
+#if Wallpaper Yagami == "Makoto"
+{
+Copy("4plug/Persona5/makoto.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
+#if Wallpaper Yagami == "All Out Attack"
+{
+Copy("4plug/Persona5/all.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
+#if Wallpaper Yagami == "Ren & Ann"
+{
+Copy("4plug/Persona5/ren.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
+#if Wallpaper Yagami == "Ren & Sumire"
+{
+Copy("4plug/Persona5/sumire.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
+#if Wallpaper Yagami == "P3 Makoto"
+{
+Copy("4plug/Persona3/p3makoto.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
+#if Wallpaper Yagami == "Yukari"
+{
+Copy("4plug/Persona3/yukari.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
+#if Wallpaper Yagami == "Mitsuru"
+{
+Copy("4plug/Persona3/mitsuru.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
+#if Wallpaper Yagami == "Femc"
+{
+Copy("4plug/Persona3/femc.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+}
