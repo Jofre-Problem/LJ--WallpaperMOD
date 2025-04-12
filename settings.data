@@ -17,32 +17,40 @@ GlobalComboBox("Wallpaper Yagami", "Wallpaper Yagami")
 #if Wallpaper Yagami == "Makoto"
 {
 Copy("4plug/Persona5/makoto.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona5/makoto.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
 #if Wallpaper Yagami == "All Out Attack"
 {
 Copy("4plug/Persona5/all.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona5/all.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
 #if Wallpaper Yagami == "Ren & Ann"
 {
 Copy("4plug/Persona5/ren.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona5/ren.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
 #if Wallpaper Yagami == "Ren & Sumire"
 {
 Copy("4plug/Persona5/sumire.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona5/sumire.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
 #if Wallpaper Yagami == "P3 Makoto"
 {
 Copy("4plug/Persona3/p3makoto.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona3/p3makoto.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
 #if Wallpaper Yagami == "Yukari"
 {
 Copy("4plug/Persona3/yukari.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona3/yukari.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
 #if Wallpaper Yagami == "Mitsuru"
 {
 Copy("4plug/Persona3/mitsuru.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona3/mitsuru.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
 #if Wallpaper Yagami == "Femc"
 {
 Copy("4plug/Persona3/femc.dds", "ui.coyote.en/texture/smartphone_judge_bg.dds");	
+Copy("4plug/Persona3/femc.dds", "ui.coyote.zhs/texture/smartphone_judge_bg.dds");	
 }
